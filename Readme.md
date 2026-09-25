@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sahil-kedare24"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Skedare240507"><img src="https://img.shields.io/badge/GitHub-Skedare240507-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://devpost.com/kedaresahil70"><img src="https://img.shields.io/badge/Devpost-Portfolio-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
   <a href="mailto:kedaresahil70@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=for-the-badge" />
@@ -95,7 +96,7 @@ I've completed **three developer internships**, won a hackathon, and shipped pro
 | **🥇 VolunteerConnect**<br>*Smart Resource Allocator* | NGO volunteer coordination platform with five user roles and AI-powered matching. Winner at the GitHub Readme Generation Hackathon and built for Google's Build With AI challenge. | Next.js, React Native, Firebase, Gemini, Google Maps |
 | **Smart Budget Guard** | AI-driven finance app for expense tracking, budgeting, spending analytics, anomaly detection, and an AI chatbot. | Next.js, TypeScript, PostgreSQL, Prisma, Claude API |
 | **ATSight AI** | Scores a resume against a job description, finds keyword gaps, and suggests concrete improvements. | Next.js, PostgreSQL, AI APIs |
-| **FileConvert** | File conversion SaaS with Docker-based infrastructure, job queues, virus scanning, and monitoring. | Next.js, Prisma, Docker Compose, Nginx, BullMQ, ClamAV |
+| **[FileConvert](https://github.com/Skedare240507/FileConvert)**<br>[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Skedare240507/FileConvert) | Open-source, distributed document conversion engine. Converts, merges, rasterizes, and OCRs PDF, Word, PowerPoint, image, and spreadsheet files, with real-time malware scanning and multi-engine fallback routing. | Next.js, BullMQ, Redis, PostgreSQL, Prisma, FastAPI, Gotenberg, ClamAV, Nginx, Docker Compose |
 | **CivicSense** | Detects potholes from citizen photos, scores severity, geolocates them, and groups duplicate reports. | Next.js, FastAPI, PostgreSQL, YOLOv8, Leaflet |
 | **Threat Detection Dashboard** | Security monitoring dashboard with KPI cards, event tables, and threat analytics for SOC analysts. | React, Charts, REST APIs |
 | **Iron Man 3D Scroll Site** | Scroll-driven 3D experience with a cinematic camera and HUD-style spec panels. | Next.js, React Three Fiber, GSAP, Tailwind |
