@@ -22,19 +22,27 @@
 
 ## 👨‍💻 About Me
 
-I'm a third-year **B.Tech Computer Science & Engineering** student at **Maharashtra Institute of Technology, Chhatrapati Sambhajinagar**, with a Diploma in Computer Engineering. I build full-stack products with AI at the core, from personal finance and resume analysis to NGO coordination and civic issue detection.
+I'm a third-year **B.Tech Computer Science & Engineering** student at
+**Maharashtra Institute of Technology, Chhatrapati Sambhajinagar**, with a
+Diploma in Computer Engineering. I build full-stack products with AI at the
+core, from personal finance and resume analysis to NGO coordination and civic
+issue detection.
 
-I've completed **three developer internships**, won a hackathon, and shipped projects across web, mobile, and cloud. I'm looking for an **entry-level software engineering role** where I can build scalable products and keep learning fast.
+I've completed **three developer internships**, won a hackathon, and shipped
+projects across web, mobile, and cloud. I'm looking for an **entry-level
+software engineering role** where I can build scalable products and keep
+learning fast.
 
 ### ⚡ Quick Highlights
 
-| 🏢 Experience | 🥇 Hackathons | 📉 Impact | 🛰️ Records |
-|:---:|:---:|:---:|:---:|
+|                    🏢 Experience                    |                  🥇 Hackathons                   |                      📉 Impact                       |                         🛰️ Records                          |
+| :-------------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------------: |
 | **3 internships**<br>Redo Group, CodSoft, CodeAlpha | **Winner**<br>GitHub Readme Generation Hackathon | **40% faster**<br>database performance at Redo Group | **5 records**<br>incl. Guinness World Records participation |
 
 ### 🔭 Right now
 
-- Building **FileConvert**, a file conversion SaaS on self-managed cloud infrastructure
+- Building **FileConvert**, a file conversion SaaS on self-managed cloud
+  infrastructure
 - Working on **ATSight AI** and an **AI-Assisted Threat Detection Dashboard**
 - Sharpening DSA, system design, and applied AI/ML
 - Planning a final-year project on **AI-Powered Precision Agriculture**
@@ -85,32 +93,33 @@ I've completed **three developer internships**, won a hackathon, and shipped pro
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**AI & Data:** Claude API, Gemini, YOLOv8, REST APIs, Prompt Engineering, Data Visualisation
+**AI & Data:** Claude API, Gemini, YOLOv8, REST APIs, Prompt Engineering, Data
+Visualisation
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| **🥇 VolunteerConnect**<br>*Smart Resource Allocator* | NGO volunteer coordination platform with five user roles and AI-powered matching. Winner at the GitHub Readme Generation Hackathon and built for Google's Build With AI challenge. | Next.js, React Native, Firebase, Gemini, Google Maps |
-| **Smart Budget Guard** | AI-driven finance app for expense tracking, budgeting, spending analytics, anomaly detection, and an AI chatbot. | Next.js, TypeScript, PostgreSQL, Prisma, Claude API |
-| **ATSight AI** | Scores a resume against a job description, finds keyword gaps, and suggests concrete improvements. | Next.js, PostgreSQL, AI APIs |
-| **[FileConvert](https://github.com/Skedare240507/FileConvert)**<br>[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Skedare240507/FileConvert) | Open-source, distributed document conversion engine. Converts, merges, rasterizes, and OCRs PDF, Word, PowerPoint, image, and spreadsheet files, with real-time malware scanning and multi-engine fallback routing. | Next.js, BullMQ, Redis, PostgreSQL, Prisma, FastAPI, Gotenberg, ClamAV, Nginx, Docker Compose |
-| **CivicSense** | Detects potholes from citizen photos, scores severity, geolocates them, and groups duplicate reports. | Next.js, FastAPI, PostgreSQL, YOLOv8, Leaflet |
-| **Threat Detection Dashboard** | Security monitoring dashboard with KPI cards, event tables, and threat analytics for SOC analysts. | React, Charts, REST APIs |
-| **Iron Man 3D Scroll Site** | Scroll-driven 3D experience with a cinematic camera and HUD-style spec panels. | Next.js, React Three Fiber, GSAP, Tailwind |
-| **Music Player Website** | Music player with search, sidebar navigation, and account management. | HTML, CSS, JavaScript, PHP, MySQL |
+| Project                                                                                                                                                                                                                            | What it does                                                                                                                                                                                                        | Tech                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **🥇 VolunteerConnect**<br>_Smart Resource Allocator_                                                                                                                                                                              | NGO volunteer coordination platform with five user roles and AI-powered matching. Winner at the GitHub Readme Generation Hackathon and built for Google's Build With AI challenge.                                  | Next.js, React Native, Firebase, Gemini, Google Maps                                          |
+| **Smart Budget Guard**                                                                                                                                                                                                             | AI-driven finance app for expense tracking, budgeting, spending analytics, anomaly detection, and an AI chatbot.                                                                                                    | Next.js, TypeScript, PostgreSQL, Prisma, Claude API                                           |
+| **ATSight AI**                                                                                                                                                                                                                     | Scores a resume against a job description, finds keyword gaps, and suggests concrete improvements.                                                                                                                  | Next.js, PostgreSQL, AI APIs                                                                  |
+| **[FileConvert](https://github.com/Skedare240507/FileConvert)**<br>[![Ask DeepWiki](https://deepwiki.com/badge-maker?url=https%3A%2F%2Fdeepwiki.com%2FSkedare240507%2FFileConvert](https://deepwiki.com/Skedare240507/FileConvert) | Open-source, distributed document conversion engine. Converts, merges, rasterizes, and OCRs PDF, Word, PowerPoint, image, and spreadsheet files, with real-time malware scanning and multi-engine fallback routing. | Next.js, BullMQ, Redis, PostgreSQL, Prisma, FastAPI, Gotenberg, ClamAV, Nginx, Docker Compose |
+| **CivicSense**                                                                                                                                                                                                                     | Detects potholes from citizen photos, scores severity, geolocates them, and groups duplicate reports.                                                                                                               | Next.js, FastAPI, PostgreSQL, YOLOv8, Leaflet                                                 |
+| **Threat Detection Dashboard**                                                                                                                                                                                                     | Security monitoring dashboard with KPI cards, event tables, and threat analytics for SOC analysts.                                                                                                                  | React, Charts, REST APIs                                                                      |
+| **Iron Man 3D Scroll Site**                                                                                                                                                                                                        | Scroll-driven 3D experience with a cinematic camera and HUD-style spec panels.                                                                                                                                      | Next.js, React Three Fiber, GSAP, Tailwind                                                    |
+| **Music Player Website**                                                                                                                                                                                                           | Music player with search, sidebar navigation, and account management.                                                                                                                                               | HTML, CSS, JavaScript, PHP, MySQL                                                             |
 
 ---
 
 ## 💼 Experience
 
-| Role | Company | Period | What I did |
-|---|---|---|---|
-| **Full Stack Development Intern** | CodeAlpha (Remote) | Mar – Apr 2026 | Completed a one-month full-stack internship and earned a letter of recommendation. |
-| **Web Development Intern** | CodSoft (Remote) | Aug – Sep 2025 | Built and delivered web projects independently. |
-| **Web Development Intern** | Redo Group Pvt. Ltd., Nashik | Jun – Jul 2024 | Built full-stack apps with React, Node.js, Express, MongoDB, PHP, and MySQL. Improved database performance by **40%** through query and architecture optimisation. |
+| Role                              | Company                      | Period         | What I did                                                                                                                                                         |
+| --------------------------------- | ---------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Full Stack Development Intern** | CodeAlpha (Remote)           | Mar – Apr 2026 | Completed a one-month full-stack internship and earned a letter of recommendation.                                                                                 |
+| **Web Development Intern**        | CodSoft (Remote)             | Aug – Sep 2025 | Built and delivered web projects independently.                                                                                                                    |
+| **Web Development Intern**        | Redo Group Pvt. Ltd., Nashik | Jun – Jul 2024 | Built full-stack apps with React, Node.js, Express, MongoDB, PHP, and MySQL. Improved database performance by **40%** through query and architecture optimisation. |
 
 ---
 
@@ -118,7 +127,8 @@ I've completed **three developer internships**, won a hackathon, and shipped pro
 
 ### Hackathons
 
-- 🥇 **Winner**, GitHub Readme Generation Hackathon (Aug 2026), with *Exceptional Performance Distinction* for VolunteerConnect
+- 🥇 **Winner**, GitHub Readme Generation Hackathon (Aug 2026), with
+  _Exceptional Performance Distinction_ for VolunteerConnect
 - Google Solution Challenge: Build with AI
 - AMD Developer Hackathon
 - WCE Hackathon 2026, Round 1 (Walchand College of Engineering, Sangli)
@@ -127,33 +137,40 @@ I've completed **three developer internships**, won a hackathon, and shipped pro
 - Adobe University Hackathon
 - Hackdevengers
 
-More on [Devpost](https://devpost.com/kedaresahil70): 4 hackathon submissions, plus the Hackathon Winner, X Hackathons (Level 2) and Generalist badges.
+More on [Devpost](https://devpost.com/kedaresahil70): 4 hackathon submissions,
+plus the Hackathon Winner, X Hackathons (Level 2) and Generalist badges.
 
 ### Records
 
-*In February 2021, I took part in record events organised by Space Zone India, the Dr. A.P.J. Abdul Kalam International Foundation and Martin Group, where students across India built and launched femto satellites from Rameswaram.*
+_In February 2021, I took part in record events organised by Space Zone India,
+the Dr. A.P.J. Abdul Kalam International Foundation and Martin Group, where
+students across India built and launched femto satellites from Rameswaram._
 
-- 🌍 **Guinness World Records**: participant in the successful attempt for *Most users to take an online aeronomy lesson in 24 hours*
+- 🌍 **Guinness World Records**: participant in the successful attempt for _Most
+  users to take an online aeronomy lesson in 24 hours_
 - 🛰️ **World Book of Records (London)**: most femto satellites launched
-- 🛰️ **Assist World Records**: most femto satellites launched, each for a different experiment
-- 🎈 **Asia Book of Records**: maximum payloads launched at a single venue (100 payloads)
+- 🛰️ **Assist World Records**: most femto satellites launched, each for a
+  different experiment
+- 🎈 **Asia Book of Records**: maximum payloads launched at a single venue (100
+  payloads)
 - 🪶 **India Book of Records**: lightest payload launched (13 grams)
 
 ---
 
 ## 📜 Certifications
 
-| Area | Certifications |
-|---|---|
-| **AI & Cloud** | Oracle Cloud Infrastructure 2025 Certified **Generative AI Professional** and **AI Foundations Associate**<br>Anthropic: *Claude with the Anthropic API*, *Claude 101*<br>Microsoft Learn: cloud computing and Microsoft Fabric analytics<br>Diffusion Models: From Prompts to Images and Video |
-| **Development** | HackerRank Java (Basic)<br>IBM SkillsBuild: Web Development Fundamentals<br>IBM Cognitive Class: Relational Databases and SQL |
-| **Data & Analytics** | Power BI, Big Data, Data Science, Cloud Technologies, Agile Scrum (Wingspan)<br>Python for Data Science, NSDC / ITM Eduteck<br>Deloitte and Forage job simulations |
+| Area                 | Certifications                                                                                                                                                                                                                                                                                  |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AI & Cloud**       | Oracle Cloud Infrastructure 2025 Certified **Generative AI Professional** and **AI Foundations Associate**<br>Anthropic: _Claude with the Anthropic API_, _Claude 101_<br>Microsoft Learn: cloud computing and Microsoft Fabric analytics<br>Diffusion Models: From Prompts to Images and Video |
+| **Development**      | HackerRank Java (Basic)<br>IBM SkillsBuild: Web Development Fundamentals<br>IBM Cognitive Class: Relational Databases and SQL                                                                                                                                                                   |
+| **Data & Analytics** | Power BI, Big Data, Data Science, Cloud Technologies, Agile Scrum (Wingspan)<br>Python for Data Science, NSDC / ITM Eduteck<br>Deloitte and Forage job simulations                                                                                                                              |
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to entry-level software engineering and full-stack roles. The fastest way to reach me is by email or LinkedIn.
+I'm open to entry-level software engineering and full-stack roles. The fastest
+way to reach me is by email or LinkedIn.
 
 <p align="center">
   <a href="mailto:kedaresahil70@gmail.com">kedaresahil70@gmail.com</a> •
